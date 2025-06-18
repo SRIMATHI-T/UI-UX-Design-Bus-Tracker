@@ -17,7 +17,7 @@ This repository contains a clean and user-friendly UI/UX design for a **Bus Trac
 
 - **Tool**: Figma  
 - **Platform**: Mobile (iOS/Android)  
-- **Prototype**: [View the Prototype](https://www.figma.com/proto/uLg9R6jqBkfRCRPVno9zx3/CAT-2?node-id=1-1010&t=lp6ZmQa89mM9LucY-1)
+- **Prototype**: [View the Prototype](https://www.figma.com/proto/uLg9R6jqBkfRCRPVno9zx3/CAT-2?node-id=1-766&t=lp6ZmQa89mM9LucY-1)
 
 ---
 
