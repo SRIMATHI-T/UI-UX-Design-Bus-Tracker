@@ -21,7 +21,7 @@ This repository contains a clean and user-friendly UI/UX design for a **Bus Trac
 
 ---
 
-## BookHub -- Full Design View 🎨
+## BusTracker -- Full Design View 🎨
 
 ![T.php](bustracker.jpg)
 
